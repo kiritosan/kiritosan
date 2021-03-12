@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![:kiritosan](https://count.getloli.com/get/@:kiritosan)
+
 ![kiritosan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiritosan&show_icons=true&theme=radical)
 
 <!--
