@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![:kiritosan](https://count.getloli.com/get/@:kiritosan)
+![:kiritosan](https://count.getloli.com/get/@:kiritosan?theme=rule34)
 
 ![kiritosan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiritosan&show_icons=true&theme=radical)
 
